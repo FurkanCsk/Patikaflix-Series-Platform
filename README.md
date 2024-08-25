@@ -44,5 +44,5 @@ Here’s an example of how to use the application:
    Series name: Friends
    Type: comedy
    Director: David Crane
-
+   ```
 
