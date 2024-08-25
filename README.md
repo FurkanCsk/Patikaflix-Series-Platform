@@ -27,10 +27,6 @@ View Results: The application will filter, sort, and display comedy series based
 ## Example
 Here’s an example of how to use the application:
 
-1. **Start the Application**
-
-   When you run the application, you will be greeted with the following prompt:
-
    ```plaintext
    Welcome to Patikaflix! Please enter the series details.
    Enter the series name: Friends
