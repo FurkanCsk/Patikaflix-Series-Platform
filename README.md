@@ -33,16 +33,14 @@ Here’s an example of how to use the application:
 
    ```plaintext
    Welcome to Patikaflix! Please enter the series details.
-   
    Enter the series name: Friends
    Enter the year: 1994
    Enter the series type: comedy
    Enter the starting year: 1994
    Enter the director: David Crane
    Enter the first platform: NBC
-   
    Do you want to add another series? (y/n): n
-   
+
    Series name: Friends
    Type: comedy
    Director: David Crane
